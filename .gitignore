@@ -1,0 +1,7 @@
+*/__pycache__/*
+.vscode/*
+.python-version
+multirun/*
+outputs/*
+*.csv
+*.txt

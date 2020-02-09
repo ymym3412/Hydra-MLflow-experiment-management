@@ -1,0 +1,12 @@
+w2v:
+  model_name: all
+  vocab_size: 32000
+  norm: 2
+model:
+  hidden_size: 256
+  dropout: 0.5
+training:
+  batch_size: 32
+  learning_rate: 0.01
+  epoch: 30
+  patience: 3
