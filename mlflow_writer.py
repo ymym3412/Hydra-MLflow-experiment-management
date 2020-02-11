@@ -1,6 +1,6 @@
 import mlflow
 from mlflow import pytorch
-from mlflow.excptions import RestException
+from mlflow.exceptions import RestException
 from mlflow.tracking import MlflowClient
 from omegaconf.dictconfig import DictConfig
 from omegaconf.listconfig import ListConfig
